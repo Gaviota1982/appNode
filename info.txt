@@ -1,0 +1,5 @@
+Glosario:
+GlobalThis: Variable global de Node. Ejemplo: GlobalThis.console.("Hola Mundo");
+commonJS: .js
+emscript: .mjs
+node: fs FileSystem
